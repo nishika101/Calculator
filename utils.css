@@ -1,0 +1,13 @@
+.text-center{
+    text-align: center;
+}
+
+.bg-red{
+    background: red;
+}
+
+.mx-auto{
+    display: flex;
+    justify-content: center;
+    gap: 10px 20px;
+}
